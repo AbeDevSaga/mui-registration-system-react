@@ -1,0 +1,14 @@
+{
+    "register": {
+      "title": "S'inscrire",
+      "name": "Nom",
+      "email": "E-mail",
+      "password": "Mot de passe",
+      "submit": "S'inscrire"
+    },
+    "header": {
+      "title": "Welcome to Our Site",
+      "sub-title":"We create solutions to help you succeed in business."
+    }
+  }
+  
