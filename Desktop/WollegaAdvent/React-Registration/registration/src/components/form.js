@@ -35,7 +35,10 @@ const RegistrationForm = () => {
         <Typography variant="h4" gutterBottom>
           {t('register.title')}
         </Typography>
-        <form onSubmit={handleSubmit} style={{ width: '100%' }}>
+        <form onSubmit={handleSubmit} style={{ 
+          width: '100%',
+
+         }}>
           <TextField
             label={t('register.name')}
             name="name"
